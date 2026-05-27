@@ -1,4 +1,4 @@
-# Modary — 模型 Corpus 截止时间记录
+# LLM Corpus Boundary — 模型 Corpus 截止时间记录
 
 通过二分法提问 2025 之后的事件，定位各 AI 模型的训练数据截止时间。
 
